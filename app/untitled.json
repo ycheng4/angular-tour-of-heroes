@@ -1,0 +1,14 @@
+Working on
+1) Adding in number of guild contest guild is currently invovle it and also the total number of active guild contest there is currently on pulling of guild info for a user
+2) Public Leaderboard data retrieval and display on mos.asia/tofuheroes/leaderboard.php by calling the tofu heroes server
+
+Pending
+1) Testing with client to ensure that given recipt for an IAP on Apple and Android can be verified
+2) Client Side  color objective  update of server on starting game
+3) Client side game play data for end game and game integrity verification
+4) Android IAP verification with Android Servers (Need time to research on doing this as it is much more complicated than apple way of verification)
+
+Done
+1) IAP server side calls to purchase mos gem and bundles for Apple and Android
+2) Verification of Apple IAP Recipt that will be given from client side on Apple IAP Servers to ensure purchase integrity
+3) API server side calls for Public Leaderboard of TOP 50 players score for each level
